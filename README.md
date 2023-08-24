@@ -1,1 +1,1 @@
-# monty
+# monty: STACKS,QUEUS LIFO-FIFO 
